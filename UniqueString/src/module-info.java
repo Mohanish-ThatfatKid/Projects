@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author mohanish
+ *
+ */
+module UniqueString {
+}
